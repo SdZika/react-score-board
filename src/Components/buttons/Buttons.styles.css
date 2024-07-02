@@ -1,0 +1,61 @@
+section {
+    box-sizing: border-box;
+    font-size: 26px;
+    text-align: center;
+}
+
+.scoreBorad {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scoreBorad div {
+    flex: 1;
+}
+
+h2, h3 {
+    color: burlywood;
+}
+
+@media screen and (max-width: 600px) {
+    .scoreBorad {
+        flex-direction: column;
+    }
+}
+
+button {
+    border: none;
+    background-color: burlywood;
+    color: whitesmoke;
+    margin: 0.2rem;
+}
+
+p {
+    background-color: burlywood;
+    color: whitesmoke;
+    font-size: 6rem;
+    font-weight: 500;
+}
+
+.plus, .minus {
+    font-size: 32px;
+}
+.minus {
+    width: 32px;
+}
+
+.plus:hover, .minus:hover, .reset:hover{
+    background-color: brown;
+}
+
+.reset {
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .reset {
+        margin-top: 2rem;
+    }
+}
