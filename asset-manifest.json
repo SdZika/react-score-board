@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workout-logging-form/static/css/main.3144a6ce.css",
+    "main.js": "/workout-logging-form/static/js/main.c8a5c487.js",
+    "static/js/453.7baaa9e9.chunk.js": "/workout-logging-form/static/js/453.7baaa9e9.chunk.js",
+    "index.html": "/workout-logging-form/index.html",
+    "main.3144a6ce.css.map": "/workout-logging-form/static/css/main.3144a6ce.css.map",
+    "main.c8a5c487.js.map": "/workout-logging-form/static/js/main.c8a5c487.js.map",
+    "453.7baaa9e9.chunk.js.map": "/workout-logging-form/static/js/453.7baaa9e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3144a6ce.css",
+    "static/js/main.c8a5c487.js"
+  ]
+}
